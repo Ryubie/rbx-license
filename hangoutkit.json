@@ -1,0 +1,26 @@
+{
+  "version": 1,
+
+  "tanpaCommunity": [
+    {
+      "placeId": 138726172638636,
+      "ownerUserId": 4673346602,
+      "ownerUsername": "ryubiekazuto"
+    }
+  ],
+
+  "withCommunity": [
+    {
+      "placeId": 78830017808027,
+      "communityId": 235953271,
+      "ownerUserId": 9047250249,
+      "ownerUsername": "JasJumps"
+    },
+    {
+      "placeId": 135681252610000,
+      "communityId": 170223338,
+      "ownerUserId": 8944891340,
+      "ownerUsername": "hardlim666"
+    }
+  ]
+}
