@@ -11,11 +11,6 @@
       "placeId": 89479193965650,
       "ownerUserId": 4673346602,
       "ownerUsername": "ryubiekazuto"
-    },
-    {
-      "placeId": 128108170505158,
-      "ownerUserId": 8928300248,
-      "ownerUsername": "1emkaa"
     }
   ],
 
@@ -31,6 +26,12 @@
       "communityId": 170223338,
       "ownerUserId": 8944891340,
       "ownerUsername": "hardlim666"
+    },
+    {
+      "placeId": 128108170505158,
+      "communityId": 428054822,
+      "ownerUserId": 8924670407,
+      "ownerUsername": "1kayasss"
     }
   ]
 }
